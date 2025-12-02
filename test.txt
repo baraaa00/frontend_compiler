@@ -1,0 +1,12 @@
+int main(){
+
+
+int s =30;
+
+char c ='a'
+// this is new Comment
+/*this is new new line*/
+
+}
+
+
